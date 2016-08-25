@@ -13,5 +13,5 @@ Esta aplicación utiliza como base de datos para guardar todas las lecturas de p
 
 El resto de app que aparecen en este repositorio son las diferentes pruebas que he ido haciendo para ir aprendiendo lo básico de Android y luego poder realizar la aplicación antes mencionada.
 
-Kerman Azkarate
+Kerman Azkarate 
 
